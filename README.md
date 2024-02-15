@@ -14,14 +14,6 @@
 -  Global state management with Zustand
 -   Error handling both on the server and on the client
 
-### Setup .env file
-
-```js
-PORT=...
-MONGO_DB_URI=...
-JWT_SECRET=...
-NODE_ENV=...
-```
 
 ### Install the app
 
@@ -30,6 +22,15 @@ npm install
 ```
 
 This should install your backend and frontend packages.
+
+### Configure the .env file
+
+```js
+MONGO_DB_URI=...
+JWT_SECRET=...
+NODE_ENV=...
+PORT=...
+```
 
 ### Start the app
 
