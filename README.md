@@ -26,10 +26,10 @@ This should install your backend and frontend packages.
 ### Configure the .env file
 
 ```js
-MONGO_DB_URI=...
-JWT_SECRET=...
-NODE_ENV=...
-PORT=...
+MONGO_DB_URI=
+JWT_SECRET=
+NODE_ENV=
+PORT=
 ```
 
 ### Start the app
