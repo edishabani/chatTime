@@ -1,4 +1,4 @@
-# MERN Stack Project, a Real Time Chat App
+# a Real Time Chat App
 
 
 ## Tech stack:
