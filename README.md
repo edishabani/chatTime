@@ -2,7 +2,7 @@
 
 
 ## Tech stack:
-### - MERN
+### - MERN Stack
 ### - Socket.io 
 ### - TailwindCSS 
 ### - Daisy UI
