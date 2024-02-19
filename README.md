@@ -2,7 +2,7 @@
 
 
 ## Tech stack:
-### - MERN Stack
+### - MERN Stack (MongoDB, Express, React, Node)
 ### - Socket.io 
 ### - TailwindCSS 
 ### - Daisy UI
